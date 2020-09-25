@@ -1,7 +1,7 @@
 
 
 
-# Thanos-Snap-Effect   :sparkles:
+# Thanos-Snap-Effect   <img src="https://emojis.slackmojis.com/emojis/images/1556260759/5655/thanossnap.gif?1556260759"  width="35" height="35" />
 
 Thanos Snap Effect using HTML CSS and JS 
 
