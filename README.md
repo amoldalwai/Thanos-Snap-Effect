@@ -25,6 +25,7 @@ Thanos Snap Effect using HTML CSS and JS
 ## Features 
 
 - [x] Thanos style disintegration of the snap
+- [ ] direct images support (only image64)
 
 
 ## Youtube
