@@ -10,16 +10,18 @@ Thanos Snap Effect using HTML CSS and JS
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/Thanos-Snap-Effect?style=plastic)
 ![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Famoldalwai.github.io%2FThanos-Snap-Effect%2F)
 
+![Demonstartion Video](https://j.gifs.com/gZ3J5Z.gif)
+
+
+## Demo Link :point_right: [https://amoldalwai.github.io/Thanos-Snap-Effect/](https://amoldalwai.github.io/Thanos-Snap-Effect/)
+
 #### Table of Contents  
 [Features](#Features)  
 [Youtube](#Youtube)\
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://j.gifs.com/gZ3J5Z.gif)
 
-
-## Demo Link :point_right: [https://amoldalwai.github.io/particle.js/](https://amoldalwai.github.io/particle.js/)
 
 
 ## Features 
